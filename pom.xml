@@ -6,16 +6,6 @@
   <artifactId>Practice</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  <configuration>
-					<!-- Configuration needed to avoid build errors-->
-					<compilerArgs>
-						<args>-parameters</args>
-					</compilerArgs>
-					<source>1.8</source>
-					<target>1.8</target>
-					<!-- Configuration needed to avoid build errors-->
-				</configuration>
-  
   <packaging>jar</packaging>
 
   <name>Practice</name>
